@@ -58,4 +58,7 @@ docs/source/changelog.md
 .jupyter_releaser_checkout
 
 # datasets
-mbti_1
+mbti_normalized.csv
+
+# pickle files
+*.pickle
